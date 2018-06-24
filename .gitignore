@@ -1,3 +1,6 @@
+# Node.js
+/node_modules/*/node-modules/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
